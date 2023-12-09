@@ -1,4 +1,0 @@
-#ffc884 warna dasar
-#fe9840 warna kuning
-#ff5838 warna orange
-#1c172d warna gelap
